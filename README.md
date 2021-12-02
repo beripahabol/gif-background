@@ -1,2 +1,0 @@
-# gif-background
-GIF Background
